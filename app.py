@@ -11,3 +11,11 @@ import os
 
 # --- Интерфейс ---
 st.title("***🌦️ Приветствуем в малиннике, бомжи***")
+
+st.title("*ОХОТА ОБЪЯВЛЯЕТСЯ ОТКРЫТОЙ*")
+
+image_path1 = "pic1.jpg"
+st.image(image_path1, width=1000)
+image_path3 = "pic3.jpg"
+st.image(image_path3, width=1000)
+

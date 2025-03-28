@@ -19,7 +19,7 @@ if os.path.exists(log_path):
     with open(log_path, "r") as f:
         log = json.load(f)
 
-    losses = log.get("losses", [])
+    losses = log.get("valid_losses", [])
     timesec = log.get("training_time", None)
 
     st.subheader("📉 Кривая обучения (Loss по эпохам)")
