@@ -7,3 +7,6 @@ pillow
 tqdm
 requests
 kagglehub
+scikit-learn
+seaborn
+
