@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+streamlit
+matplotlib
+pillow
+tqdm
+requests
+kagglehub
